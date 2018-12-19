@@ -1,0 +1,10 @@
+C:\Users\Rafał\Desktop\studia\semestr V\POD\lab\lab7\LSB_stegan\LSB_stegan\bin\Debug\LSB_stegan.exe.config
+C:\Users\Rafał\Desktop\studia\semestr V\POD\lab\lab7\LSB_stegan\LSB_stegan\bin\Debug\LSB_stegan.exe
+C:\Users\Rafał\Desktop\studia\semestr V\POD\lab\lab7\LSB_stegan\LSB_stegan\bin\Debug\LSB_stegan.pdb
+C:\Users\Rafał\Desktop\studia\semestr V\POD\lab\lab7\LSB_stegan\LSB_stegan\obj\Debug\LSB_stegan.csprojAssemblyReference.cache
+C:\Users\Rafał\Desktop\studia\semestr V\POD\lab\lab7\LSB_stegan\LSB_stegan\obj\Debug\LSB_stegan.Form1.resources
+C:\Users\Rafał\Desktop\studia\semestr V\POD\lab\lab7\LSB_stegan\LSB_stegan\obj\Debug\LSB_stegan.Properties.Resources.resources
+C:\Users\Rafał\Desktop\studia\semestr V\POD\lab\lab7\LSB_stegan\LSB_stegan\obj\Debug\LSB_stegan.csproj.GenerateResource.cache
+C:\Users\Rafał\Desktop\studia\semestr V\POD\lab\lab7\LSB_stegan\LSB_stegan\obj\Debug\LSB_stegan.csproj.CoreCompileInputs.cache
+C:\Users\Rafał\Desktop\studia\semestr V\POD\lab\lab7\LSB_stegan\LSB_stegan\obj\Debug\LSB_stegan.exe
+C:\Users\Rafał\Desktop\studia\semestr V\POD\lab\lab7\LSB_stegan\LSB_stegan\obj\Debug\LSB_stegan.pdb
